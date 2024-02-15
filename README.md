@@ -16,6 +16,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white"/>
   <img alt="Rabbit MQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"/>
