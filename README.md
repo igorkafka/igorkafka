@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Igor, Front-end developer, currently living in <img src="https://github.com/igorkafka/exemplo-readme/assets/17576970/05ecd6e9-a635-45ed-9613-ae6ee095648c" width="13"/> <b>Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Igor, Full-stack developer, currently living in <img src="https://github.com/igorkafka/exemplo-readme/assets/17576970/05ecd6e9-a635-45ed-9613-ae6ee095648c" width="13"/> <b>Brazil</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" />
